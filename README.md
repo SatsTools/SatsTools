@@ -1,6 +1,7 @@
 # SatsTools
 
 Free Bitcoin & Lightning tools for the global stacker.
+Explore the tools at https://satstools.com
 
 ## What we build
 - DCA calculators
