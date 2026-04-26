@@ -17,7 +17,7 @@ EN • ES • PT
 - X: https://x.com/SatsTools
 - LinkedIn: https://www.linkedin.com/company/satstools
 - Reddit: https://www.reddit.com/r/SatsTools/
-- Nostr: https://jumble.social/users/npub1...
+- Nostr: https://jumble.social/users/npub1wvwae5sy530mfkwhf74enyw0hqv6n4ll96ew0e8ag0lzrm4d8wvsrxrt7v
 
 ## Public repos
 - docs
