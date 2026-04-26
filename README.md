@@ -1,6 +1,31 @@
-- 👋 Hi, I’m @SatsTools
-- 👀 I’m interested in Bitcoin Mining
-- 📫 How to reach me Sales@satstools.com
+# SatsTools
+
+Free Bitcoin & Lightning tools for the global stacker.
+
+## What we build
+- DCA calculators
+- Fee estimators
+- Mining tools
+- Lightning utilities
+- Bitcoin educational tools
+
+## Languages
+EN • ES • PT
+
+## Links
+- Website: https://satstools.com
+- X: https://x.com/SatsTools
+- LinkedIn: https://www.linkedin.com/company/satstools
+- Reddit: https://www.reddit.com/r/SatsTools/
+- Nostr: https://jumble.social/users/npub1...
+
+## Public repos
+- docs
+- open tools
+- experiments
+
+## Contact
+support@satstools.com
 
 <!---
 SatsTools/SatsTools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
