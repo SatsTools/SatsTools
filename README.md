@@ -15,10 +15,10 @@ EN • ES • PT
 
 ## Links
 - Website: https://satstools.com
-- X: https://x.com/SatsTools
+- X: https://x.com/SatsTools 
 - LinkedIn: https://www.linkedin.com/company/satstools
 - Reddit: https://www.reddit.com/r/SatsTools/
-- Nostr: https://jumble.social/users/npub1wvwae5sy530mfkwhf74enyw0hqv6n4ll96ew0e8ag0lzrm4d8wvsrxrt7v
+- Nostr: https://primal.net/p/nprofile1qqs8x8wu6gz2gha5m8t5l2uej88msxdf6lljavh8un758l3pa6knhxgq4y8ql
 
 ## Public Repositories
 
